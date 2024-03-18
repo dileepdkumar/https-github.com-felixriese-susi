@@ -19,7 +19,7 @@ nbval>=0.9.5
 coverage>=5.3
 
 # for formatting
-black>=21.9b0
+black>=24.3.0
 
 # for the documentation
 sphinx>=3.3.0
